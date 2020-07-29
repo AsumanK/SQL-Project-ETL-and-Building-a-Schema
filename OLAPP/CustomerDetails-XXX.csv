@@ -1,0 +1,21 @@
+Customer_key,FirstName,LastName,BirthDate,MaritalStatus,Gender,PostCode,City,Income
+33001,Adriana ,Ocampo ,01/02/1977,Single,M,NW1 8GV,London,30000
+33002,Albert ,Einstein,03/05/1988,Married,M,NE1 8GH,London,45000
+33003,Ann,Behrensmeyer,04/09/1990,Single,F,N8 9GV,London,23000
+33004,Blaise ,Pascal,05/08/1997,Married,M,SE8 9GV,London,34000
+33005,Caroline ,Herschel,06/05/1990,Single,F,N6 9YH,London,35000
+33006,Cecilia ,Payne-Gaposchkin,07/03/1958,Married,F,EC3 0YU,London,23000
+33007,Chien-Shiung,Wu,08/01/1968,Single,M,E8 9YU,London,45000
+33008,Dorothy ,Hodgkin,09/09/1957,Married,F,M1 9UU,Manchester,50000
+33009,Edmond ,Halley,10/03/1972,Single,M,M8 9JJ,Manchester,23000
+33010,Edwin ,Hubble,11/12/1980,Married,M,M1 0GG,Manchester,34000
+33011,Elizabeth ,Blackburn,12/11/1991,Single,F,M3 9YY,Manchester,45000
+33012,Enrico ,Fermi,13/08/1978,Married,M,B2 8UU,Birmingham,34000
+33013,Erwin ,Schroedinger,14/04/1986,Married,M,B11 8UU,Birmingham,26000
+33014,Flossie,Wong-Staal,15/04/1966,Single,M,B2 9NN,Birmingham,27888
+33015,Frieda ,Robscheit-Robbins,16/02/1989,Married,M,B3 0JJ,Birmingham,46000
+33016,Geraldine,Seydoux,17/09/1990,Married,M,B9 4JJ,Birmingham,26777
+33017,Gertrude ,Elion,18/08/1977,Single,M,L2 8HH,Liverpool,24000
+33018,Ingrid ,Daubechies,19/04/1945,Married,M,L2 9NN,Liverpool,45999
+33019,Jacqueline ,Barton,20/07/1999,Married,F,L9 0KK,Liverpool,26000
+33020,Marie,Curie,21/02/1947,Married,F,L1 7LM,Liverpool,25000
